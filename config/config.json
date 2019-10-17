@@ -1,8 +1,10 @@
 {
   "development": {
-    "username": "root",
-    "password": "@Torpedoes1",
-    "database": "caterdb",
+    "username": "fx30bi4nc1ol38j5",
+    "password": "b3davjgsd7ml9qh0",
+    // "username": "root",
+    // "password": "@Torpedoes1",
+    "database": "pczv7hep7uuokmr1",
     "host": "localhost",
     "dialect": "mysql"
   },
@@ -19,4 +21,3 @@
     "dialect": "mysql"
   }
 }
-
