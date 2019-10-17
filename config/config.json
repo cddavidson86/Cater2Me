@@ -5,7 +5,7 @@
     // "username": "root",
     // "password": "@Torpedoes1",
     "database": "pczv7hep7uuokmr1",
-    "host": "localhost",
+    "host": "	b4e9xxkxnpu2v96i.cbetxkdyhwsb.us-east-1.rds.amazonaws.com",
     "dialect": "mysql"
   },
   "test": {
